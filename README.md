@@ -10,9 +10,9 @@ My daily code with java,C,shell,clisp....
 ├── clisp 
 ├── java 
 └── shell 
-	└── [xhup](./shell/xhup) 
-		├── [ToAnalyseXhup.sh](./shell/xhup/ToAnalyseXhup.sh) 
-		└── [xhupdict](./shell/xhup/xhupdict) 
+	└── xhup 
+		├── ToAnalyseXhup.sh 
+		└── xhupdict 
 ```
 
 ---
