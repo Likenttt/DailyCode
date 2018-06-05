@@ -29,6 +29,6 @@ Description:
 - Test Environment: MacOs 10.13.4
 ---
 #### MountPortableDisk
-- [mountDisk](./shell/MountPortableDisk/mountDisk) is a shell script to mount ntfs disk with r/w rights on macos.
+- [mountDisk](./shell/MountPortableDisk/mountDisk.sh) is a shell script to mount ntfs disk with r/w rights on macos.
 - Test Environment: MacOs 10.13.5
 
