@@ -6,13 +6,18 @@ My daily code with java,C,shell,clisp....
 ```
 .
 ├── C
-├── README.md 
-├── clisp 
-├── java 
-└── shell 
-	└── xhup 
-		├── ToAnalyseXhup.sh 
-		└── xhupdict 
+├── README.md
+├── clisp
+├── java
+│   └── HTMLDocumentEditor.java
+├── shell
+│   ├── MountPortableDisk
+│   │   └── mountDisk.sh
+│   └── xhup
+│       ├── ToAnalyseXhup.sh
+│       └── xhupdict
+└── update.sh
+
 ```
 
 ---
@@ -23,5 +28,7 @@ Description:
 - [xhupdict](./shell/xhup/xhupdict) is the dictionary of Xhup/xiaoheshuangpin.Notice that the dictionary should be well formatted.
 - Test Environment: MacOs 10.13.4
 ---
-
+#### MountPortableDisk
+- [mountDisk](./shell/MountPortableDisk/mountDisk) is a shell script to mount ntfs disk with r/w rights on macos.
+- Test Environment: MacOs 10.13.5
 
